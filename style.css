@@ -48,3 +48,13 @@
     background-color: rgb(240, 226, 228);
     border-top: none;
 }
+#subscribe{
+    height: 300px;
+}
+#subscribe h6{
+    color: blueviolet;
+}
+footer{
+    font-weight: bold;
+    text-align: center;
+}
